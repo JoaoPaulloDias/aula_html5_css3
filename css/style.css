@@ -1,0 +1,40 @@
+body{
+    background-color: #cccccc;
+    margin-left: 80px;
+    margin-right: 200px;
+}
+head{
+    margin-top: 50px;
+}
+
+h1{
+    color: rgb(68, 20, 117);
+    font-family: fantasy;
+}
+h2{
+    font-family: fantasy;
+}
+
+p{
+    font-size:20px;
+}
+
+.img_padrao{
+    margin-bottom: 20px;
+    width: 400px;
+}
+nav{
+    background: #5454c4;
+    padding: 10px;
+}
+
+ul#horizontal-list {
+    margin: 0;;
+	min-width: 696px;
+	list-style: none;
+	padding: 10px;
+	}
+	ul#horizontal-list li  {
+		display: inline;
+        padding-left: 20px;
+	}
